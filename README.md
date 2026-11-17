@@ -12,6 +12,7 @@ If you think we got something wrong, open an issue with a source. Corrections ar
 
 | Date | Post | Claims | Page |
 |---|---|---|---|
+| 2026-11-17 | Is the Anthropic IPO draining crypto? | 14 (10 real, 2 their reporting or analysis, 1 our read, 1 watch) | [checks/2026-11-17-anthropic-ipo-draining-crypto.md](checks/2026-11-17-anthropic-ipo-draining-crypto.md) |
 | 2026-11-16 | Banks froze today, "internet off" tomorrow | 11 (7 real, 3 false, 1 not claimed) | [checks/2026-11-16-banks-down-internet-off.md](checks/2026-11-16-banks-down-internet-off.md) |
 | 2026-11-16 | Your AI agent buys the wrong thing. Who pays? | 9 | [checks/2026-11-16-who-pays-agent-checkout.md](checks/2026-11-16-who-pays-agent-checkout.md) |
 | 2026-11-14 | Agent payments split into two rails | 6 | [checks/2026-11-14-two-rails.md](checks/2026-11-14-two-rails.md) |
@@ -25,12 +26,14 @@ If you think we got something wrong, open an issue with a source. Corrections ar
 | **FALSE** | No primary source supports it, or a primary source contradicts it |
 | **WATCH** | A real risk named by a credible source, not yet an event |
 | **EXAMPLE** | An illustrative number in our post, not a measurement |
+| **OUR READ** | Our interpretation of the sourced data on the same page, labeled as opinion |
 | **NOT CLAIMED** | A link readers might assume, which we did not make |
 
 ## Scripts
 
 | Script | What it checks |
 |---|---|
+| [scripts/november_moves.py](scripts/november_moves.py) | November 2026 Bitcoin ETF flows and the Bitcoin, Nvidia and Nasdaq moves, from Farside, CoinGecko and Yahoo Finance |
 | [scripts/btc_blocks_window.py](scripts/btc_blocks_window.py) | Bitcoin blocks and transactions mined inside any time window, from the public mempool.space API |
 
 Python 3, standard library only, no API keys.
