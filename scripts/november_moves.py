@@ -13,11 +13,11 @@ import json
 import urllib.request
 from datetime import date, datetime, timezone
 
-# Farside "Total" column, US$ millions. Nov 16 was partly reported on Nov 17.
+# Farside "Total" column, US$ millions. Nov 16 uses Farside's final figure (+7.9), corrected on Nov 17.
 FARSIDE = {
     "2026-11-02": -398.6, "2026-11-03": -115.6, "2026-11-04": 74.6, "2026-11-05": -430.2,
     "2026-11-06": -411.9, "2026-11-09": -201.0, "2026-11-10": -95.0, "2026-11-11": -299.8,
-    "2026-11-12": -284.1, "2026-11-13": -185.4, "2026-11-16": -68.6,
+    "2026-11-12": -284.1, "2026-11-13": -185.4, "2026-11-16": 7.9,
 }
 
 
@@ -44,12 +44,15 @@ def pct(a, b):
 
 def main():
     total = sum(FARSIDE.values())
-    streak = 0
-    for d in sorted(FARSIDE, reverse=True):
-        if FARSIDE[d] >= 0:
-            break
-        streak += 1
-    print(f"ETF flows Nov 2-16: {total:,.1f} $M, outflow streak since Nov 5: {streak} sessions")
+    best, run, start = (0, None, None), 0, None
+    for d in sorted(FARSIDE):
+        if FARSIDE[d] < 0:
+            run, start = run + 1, start or d
+            if run > best[0]:
+                best = (run, start, d)
+        else:
+            run, start = 0, None
+    print(f"ETF flows Nov 2-16: {total:,.1f} $M, longest outflow streak: {best[0]} sessions ({best[1]} to {best[2]})")
 
     btc = get("https://api.coingecko.com/api/v3/coins/bitcoin/market_chart?vs_currency=usd&days=60&interval=daily")["prices"]
     nov1 = next(p for t, p in btc if day(t / 1000) == date(2026, 11, 1))
