@@ -1,6 +1,6 @@
 # Stablecoin supply just had its biggest 30-day drop since Terra
 
-**Post:** site only, [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-17-stablecoin-supply-drop/) · **Checked:** 2026-11-17 · **Status:** all claims sourced
+**Post:** [x.com/MorbiusLabs/status/2122716103721836853](https://x.com/MorbiusLabs/status/2122716103721836853) · [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-17-stablecoin-supply-drop/) · **Checked:** 2026-11-17 · **Status:** all claims sourced
 
 USD stablecoins are the cash that sits inside crypto. When their supply shrinks, money is leaving that system. We measured how much, using DefiLlama's public data, and recomputed every number.
 
