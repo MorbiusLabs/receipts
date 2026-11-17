@@ -4,7 +4,7 @@
 
 Every claim we post, with its source.
 
-[@MorbiusLabs](https://x.com/MorbiusLabs) covers the stories where AI and money meet: banks, crypto, stablecoins, payments. This repo is the paper trail. Each post gets a page that lists every factual claim, a verdict and the primary source behind it. Where a number comes from public data, there is a script that recomputes it.
+[@MorbiusLabs](https://x.com/MorbiusLabs) covers the stories where AI and money meet: banks, crypto, stablecoins, payments. This repo is the paper trail. Each check, on X or on [morbiuslabs.org](https://morbiuslabs.org), gets a page that lists every factual claim, a verdict and the primary source behind it. Where a number comes from public data, there is a script that recomputes it.
 
 If you think we got something wrong, open an issue with a source. Corrections are logged on the page they affect.
 
@@ -12,6 +12,10 @@ If you think we got something wrong, open an issue with a source. Corrections ar
 
 | Date | Post | Claims | Page |
 |---|---|---|---|
+| 2026-11-17 | Stablecoin supply just had its biggest 30-day drop since Terra | 5 (3 real, 1 our read, 1 not claimed) | [checks/2026-11-17-stablecoin-supply-drop.md](checks/2026-11-17-stablecoin-supply-drop.md) |
+| 2026-11-17 | Did AI hack Binance? What Binance's own report says | 7 (6 their reporting, 1 false) | [checks/2026-11-17-binance-hack-ai.md](checks/2026-11-17-binance-hack-ai.md) |
+| 2026-11-17 | Nvidia reports today, its first quarter without Jensen Huang | 6 (5 real, 1 not claimed) | [checks/2026-11-17-nvidia-first-report-without-huang.md](checks/2026-11-17-nvidia-first-report-without-huang.md) |
+| 2026-11-17 | Zelle sent $1.25M in ZelleUSD on Solana. When does it launch? | 6 (1 real, 4 their reporting, 1 watch) | [checks/2026-11-17-zelleusd-solana.md](checks/2026-11-17-zelleusd-solana.md) |
 | 2026-11-17 | Is the Anthropic IPO draining crypto? | 14 (10 real, 2 their reporting or analysis, 1 our read, 1 watch) | [checks/2026-11-17-anthropic-ipo-draining-crypto.md](checks/2026-11-17-anthropic-ipo-draining-crypto.md) |
 | 2026-11-16 | Banks froze today, "internet off" tomorrow | 11 (7 real, 3 false, 1 not claimed) | [checks/2026-11-16-banks-down-internet-off.md](checks/2026-11-16-banks-down-internet-off.md) |
 | 2026-11-16 | Your AI agent buys the wrong thing. Who pays? | 9 | [checks/2026-11-16-who-pays-agent-checkout.md](checks/2026-11-16-who-pays-agent-checkout.md) |
@@ -33,6 +37,7 @@ If you think we got something wrong, open an issue with a source. Corrections ar
 
 | Script | What it checks |
 |---|---|
+| [scripts/stablecoin_supply.py](scripts/stablecoin_supply.py) | Total USD stablecoin supply: the 30-day change to any date, the Tether and USDC parts, and the largest drops on record, from DefiLlama |
 | [scripts/november_moves.py](scripts/november_moves.py) | November 2026 Bitcoin ETF flows and the Bitcoin, Nvidia and Nasdaq moves, from Farside, CoinGecko and Yahoo Finance |
 | [scripts/btc_blocks_window.py](scripts/btc_blocks_window.py) | Bitcoin blocks and transactions mined inside any time window, from the public mempool.space API |
 
