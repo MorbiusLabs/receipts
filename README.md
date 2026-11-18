@@ -12,6 +12,8 @@ If you think we got something wrong, open an issue with a source. Corrections ar
 
 | Date | Post | Claims | Page |
 |---|---|---|---|
+| 2026-11-18 | Nvidia's first quarter without Jensen Huang: a record, and his name nowhere in the release | 12 (8 real, 1 their reporting, 1 watch, 2 not claimed) | [checks/2026-11-18-nvidia-q3-without-huang.md](checks/2026-11-18-nvidia-q3-without-huang.md) |
+| 2026-11-18 | The Nov 17 "blackout" came and went: the alert test ran, the internet stayed on | 6 (1 real, 4 their reporting, 1 false) | [checks/2026-11-18-eas-test-outcome.md](checks/2026-11-18-eas-test-outcome.md) |
 | 2026-11-17 | Anthropic's last filing before pricing: range unchanged, Nasdaq approved | 7 (6 real, 1 watch) | [checks/2026-11-17-anthropic-final-filing.md](checks/2026-11-17-anthropic-final-filing.md) |
 | 2026-11-17 | Fed's Waller: tokenization and AI "could be catalysts for one another" | 5 (4 real, 1 not claimed) | [checks/2026-11-17-waller-tokenization-ai.md](checks/2026-11-17-waller-tokenization-ai.md) |
 | 2026-11-17 | An AI agent account with spending limits launched today | 6 (2 real, 4 their reporting) | [checks/2026-11-17-lightspark-agent-accounts.md](checks/2026-11-17-lightspark-agent-accounts.md) |
