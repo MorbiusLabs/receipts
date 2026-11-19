@@ -18,6 +18,8 @@ Hackers took about $6.3 billion from Binance on Oct 29. The theft is often descr
 
 Binance's promised independent review, or an FBI statement that gives the AI tools a larger role. If Binance's own post uses different wording from the two outlets, we will update the quotes with the date.
 
+**Update, 2026-11-19:** Google's Nov 17 AI threat report describes a North Korea-linked cluster abusing AI tools inside crypto firms. It does not name Binance, so it does not change the verdicts above. See [our check of that report](https://morbiuslabs.org/p/2026-11-19-google-ai-hacking-no-human/).
+
 ## Corrections
 
 None so far. If you find an error, open an issue with the source.
