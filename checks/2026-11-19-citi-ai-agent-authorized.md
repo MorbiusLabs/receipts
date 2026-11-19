@@ -1,6 +1,6 @@
 # Citi: whatever a third-party AI agent does in your account counts as "authorized by You"
 
-**Post:** site only, [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-19-citi-ai-agent-authorized/) · **Checked:** 2026-11-19 · **Status:** Citi claims from the agreement itself; other banks via TechCrunch
+**Post:** [X](https://x.com/MorbiusLabs/status/2123500086269186438) · [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-19-citi-ai-agent-authorized/) · **Checked:** 2026-11-19 · **Status:** Citi claims from the agreement itself; other banks via TechCrunch
 
 Citi added a new Section H to its Online User Agreement this month: "Use of Third-Party Artificial Intelligence ("AI") Agents". We read the live text.
 
