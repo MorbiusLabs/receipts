@@ -14,6 +14,7 @@ Philip N. Jefferson, Vice Chair of the Federal Reserve, spoke at UC San Diego on
 | 6 | 40% to 50% of working adults use AI on the job | **REAL (their surveys)** | "40 to 50 percent of working adults are using the technology in their jobs". He adds that only "a modest fraction uses it every day" |
 | 7 | Jefferson signaled a rate move because of AI | **NOT CLAIMED** | He says faster productivity would mean "the neutral rate would likely rise", then that predicting it "is challenging", and that inflation is "the more important signal". 12-month PCE inflation "was 3.6 percent in September" |
 | 8 | This is the Fed's official view | **FALSE** | Footnote 1: the views "are my own and are not necessarily those of my colleagues" on the FOMC |
+| 9 | He said it again a week later | **REAL** | [Jefferson, Nov 19](https://www.federalreserve.gov/newsevents/speech/jefferson20261119a.htm): "Currently, the AI buildout is exerting upward pressure on demand and inflation." |
 
 ## Reproduce
 
