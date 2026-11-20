@@ -1,6 +1,6 @@
 # SEC: an "AI-driven" algorithm promising 6% a month raised $560 million. The SEC calls it a Ponzi scheme
 
-**Post:** site only, [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-20-sec-ai-driven-ponzi/) · **Checked:** 2026-11-20 · **Status:** all claims sourced to the SEC release; these are allegations, not court findings
+**Post:** [X](https://x.com/MorbiusLabs/status/2123876809443770609) · [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-20-sec-ai-driven-ponzi/) · **Checked:** 2026-11-20 · **Status:** all claims sourced to the SEC release; these are allegations, not court findings
 
 | # | Claim | Verdict | Source |
 |---|---|---|---|
