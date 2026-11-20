@@ -1,6 +1,6 @@
 # ANT's first day: opened at $111.50, closed at $97.17. What "$2 trillion" counts
 
-**Post:** site only, [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-20-ant-first-day/) · **Checked:** 2026-11-20 · **Status:** all claims sourced
+**Post:** [X](https://x.com/MorbiusLabs/status/2123668423762702412) · [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-20-ant-first-day/) · **Checked:** 2026-11-20 · **Status:** all claims sourced
 
 Anthropic's Class A shares started trading on Nasdaq on Nov 19 under the ticker ANT, after pricing at $83. Below are the first day's prices from Nasdaq's own data and the valuation figures rebuilt from the final prospectus (424B4).
 
