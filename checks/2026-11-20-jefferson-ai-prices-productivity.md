@@ -1,6 +1,6 @@
 # Fed Vice Chair Jefferson: AI is adding to demand and prices now, its productivity payoff is "limited" so far
 
-**Post:** site only, [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-20-jefferson-ai-prices-productivity/) · **Checked:** 2026-11-20 · **Status:** all claims sourced from the speech
+**Post:** [X](https://x.com/MorbiusLabs/status/2123872281717813388) · [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-20-jefferson-ai-prices-productivity/) · **Checked:** 2026-11-20 · **Status:** all claims sourced from the speech
 
 Philip N. Jefferson, Vice Chair of the Federal Reserve, spoke at UC San Diego on Nov 13. BIS reposted the speech on Nov 19. He describes the AI boom as a demand story today and a productivity story that has not arrived yet.
 
