@@ -10,6 +10,7 @@
 | 4 | The report comes from a neutral source | **FALSE** | Hunterbrook discloses that Hunterbrook Capital "is short $AMD and long a basket of comparable securities", so it profits if the stock falls |
 | 5 | AMD disputes the report | **REAL** | AMD statement, quoted by Hunterbrook: the reporting "misrepresents AMD's business practices and relationships" |
 | 6 | China is a large share of AMD's sales | **REAL (their figures)** | Hunterbrook: "AMD billed $7.75 billion, or 22.4% of revenue, to China (and Hong Kong) in fiscal 2025." We did not open the 10-K |
+| 7 | AMD kept falling the next day | **REAL** | Nasdaq: Nov 20 close $424.39, down another 13.25%, in a broad chip sell-off. Two-day drop from $530.14: 19.95%. No source ties the second day to the report |
 
 ## Reproduce
 
