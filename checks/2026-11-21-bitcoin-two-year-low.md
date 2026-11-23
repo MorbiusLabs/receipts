@@ -37,6 +37,13 @@ print(round((58814.99 / 61913.23 - 1) * 100, 2))    # -5.0
 print(round((58814.99 / 87497.94 - 1) * 100, 2))    # -32.78
 ```
 
+**Update, 2026-11-23:** Bitcoin has recovered part of the drop. On [Coinbase Exchange](https://api.exchange.coinbase.com/products/BTC-USD/ticker) the last trade was $63,119.69 at 15:34 UTC on Nov 23, 14.54% above the $55,106 low. The Nov 22 daily close was $61,163.01, 3.99% above the Nov 20 close. We have not checked the liquidation figures quoted elsewhere.
+
+```python
+print(round((63119.69 / 55106 - 1) * 100, 2))      # 14.54
+print(round((61163.01 / 58814.99 - 1) * 100, 2))   # 3.99
+```
+
 ## Corrections
 
 None so far. If you find an error, open an issue with the source.
