@@ -25,6 +25,8 @@ print(round(amd / approved * 100, 1))         # 34.1% of approvals were AMD's
 
 The Commerce table itself (we could not open the committee's PDF), and any data on shipments after May 11.
 
+**Update, 2026-11-23:** Nvidia's CFO commentary for its fiscal third quarter says "Shipments of Data Center Hopper products to China during the quarter were $2.4 billion." It gives dollars, not chip counts, so it does not tell us how many approved chips shipped. See [our check](https://morbiuslabs.org/p/2026-11-23-nvidia-hopper-china-2-4b/).
+
 ## Corrections
 
 None so far. If you find an error, open an issue with the source.

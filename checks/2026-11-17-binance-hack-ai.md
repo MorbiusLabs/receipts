@@ -20,6 +20,8 @@ Binance's promised independent review, or an FBI statement that gives the AI too
 
 **Update, 2026-11-19:** Google's Nov 17 AI threat report describes a North Korea-linked cluster abusing AI tools inside crypto firms. It does not name Binance, so it does not change the verdicts above. See [our check of that report](https://morbiuslabs.org/p/2026-11-19-google-ai-hacking-no-human/).
 
+**Update, 2026-11-23:** The Justice Department's Nov 12 release attributes the theft to North Korea's military ("TraderTraitor"), puts it at "more than $6 billion", and says more than $2.7 billion is frozen and more than $1.2 billion seized or restrained. Its "super intelligence" deepfake campaign is described "Separately from" the Binance theft, so claim 5 stands. See [our check of that release](https://morbiuslabs.org/p/2026-11-23-doj-facestealer-super-intelligence/).
+
 ## Corrections
 
 None so far. If you find an error, open an issue with the source.
