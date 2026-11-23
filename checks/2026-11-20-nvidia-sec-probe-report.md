@@ -12,6 +12,7 @@ On Nov 20 Reuters reported, citing two people briefed on the matter, that Nvidia
 | 4 | Nvidia stopped showing Singapore separately in its revenue breakdown | **REAL (their reporting)** | Reuters, citing the Financial Times: the change "resulted in Singapore being removed from its geographical breakdown". Reuters presents this as press scrutiny, not as a confirmed focus of the SEC |
 | 5 | The probe is why Jensen Huang was removed | **NOT CLAIMED** | No source we read makes that link. See [our Nvidia story](https://morbiuslabs.org/stories/nvidia-without-huang/) |
 | 6 | Nvidia fell about 10% on Nov 20 | **REAL** | It fell more by the close. [Nasdaq historical data](https://www.nasdaq.com/market-activity/stocks/nvda/historical): $125.53 against $145.98, down 14.0%, on 633 million shares, about twice the day before. Down 19.3% from the Nov 17 close, the day of its results. During the session [CNBC](https://www.cnbc.com/2026/11/20/stocks-moving-the-most-today-live-updates.html) had it "heading for its worst session since Jan. 27, 2025". No source measures how much of the drop came from the Reuters report |
+| 7 | California's attorney general is investigating Nvidia | **REAL (their reporting)** | Reuters, Nov 17: Rob Bonta told Bloomberg Television "red flags have been raised" and that his office was deciding whether "the law and facts justify" action ([via GV Wire](https://gvwire.com/2026/11/17/california-ag-says-nvidia-scandal-has-raised-red-flags-could-lead-to-probe-bloomberg-news-reports/)). Reuters, Nov 19: Bonta "said on Thursday his office had served an investigative subpoena to Nvidia" ([via The Daily Guardian](https://thedailyguardian.com/business/california-ag-subpoenas-nvidia-over-concerns-about-former-ceo-china-ties-776375/)). We found no press release from his office |
 
 ## What would change this page
 
@@ -19,4 +20,4 @@ An Nvidia 8-K or 10-Q disclosure, an SEC statement, or a denial.
 
 ## Corrections
 
-2026-11-21: claim 6 updated from the intraday figure (about 10%) to Nasdaq's close (down 14.0%).
+2026-11-23: claim 7 added (California attorney general). 2026-11-21: claim 6 updated from the intraday figure (about 10%) to Nasdaq's close (down 14.0%).
