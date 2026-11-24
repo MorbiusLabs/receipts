@@ -19,6 +19,8 @@ Wells Fargo has published a new Online Access Agreement that takes effect on Nov
 
 A Wells Fargo statement, a revised version before Nov 24, or a CFPB view on how unauthorized-transfer rules apply to AI agents.
 
+Update 2026-11-24: the terms are now in effect. The [main agreement page](https://www.wellsfargo.com/online-banking/online-access-agreement/) shows "Version Effective November 24, 2026", with Section 15 and the same "deemed to have been initiated and authorized directly by you" wording.
+
 ## Corrections
 
 None so far. If you find an error, open an issue with the source.
