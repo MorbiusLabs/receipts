@@ -28,3 +28,5 @@ Huang's own statement in full, the 10-Q (due "in the coming weeks", per Ex. 99.2
 ## Corrections
 
 None so far. If you find an error, open an issue with the source.
+
+Update 2026-11-24: on Nov 22 the board reinstated Huang ([our check](https://morbiuslabs.org/p/2026-11-24-nvidia-huang-reinstated/)). Claim 8 was accurate when reported on Nov 17.
