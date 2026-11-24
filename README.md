@@ -4,7 +4,7 @@
 
 Every claim we post, with its source.
 
-[@MorbiusLabs](https://x.com/MorbiusLabs) covers the stories where AI and money meet: banks, crypto, stablecoins, payments. This repo is the paper trail. Each check, on X or on [morbiuslabs.org](https://morbiuslabs.org), gets a page that lists every factual claim, a verdict and the primary source behind it. Where a number comes from public data, there is a script that recomputes it.
+[@morbius_labs](https://x.com/morbius_labs) covers the stories where AI and money meet: banks, crypto, stablecoins, payments. This repo is the paper trail. Each check, on X or on [morbiuslabs.org](https://morbiuslabs.org), gets a page that lists every factual claim, a verdict and the primary source behind it. Where a number comes from public data, there is a script that recomputes it.
 
 If you think we got something wrong, open an issue with a source. Corrections are logged on the page they affect.
 
