@@ -1,6 +1,6 @@
 # "AI is the top risk, flagged by 87%": that is 20 of 23 market contacts in a New York Fed survey, not the Fed's own view
 
-**Post:** site only, [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-24-fed-survey-ai-top-risk/) · **Checked:** 2026-11-24 · **Status:** all claims sourced to the Fed's November 2026 Financial Stability Report (PDF)
+**Post:** [X, Nov 24](https://x.com/morbius_labs/status/2125257584169091229) and [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-24-fed-survey-ai-top-risk/) · **Checked:** 2026-11-24 · **Status:** all claims sourced to the Fed's November 2026 Financial Stability Report (PDF)
 
 Headlines after the Fed's Nov 13 Financial Stability Report said AI is "the most cited risk to the financial system", flagged by 87% of survey respondents. The survey is real and AI did top it. It is a poll of 23 market contacts run by New York Fed staff, and the report says it does not represent the Fed's views.
 
