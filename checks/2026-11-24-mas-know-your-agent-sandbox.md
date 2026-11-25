@@ -1,6 +1,6 @@
 # Singapore's central bank will test AI agents paying with stablecoins. No protocol yet, no start date, and its advice today: don't give agents your bank login
 
-**Post:** site only, [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-24-mas-know-your-agent-sandbox/) · **Checked:** 2026-11-24 · **Status:** all claims sourced to the speech text on mas.gov.sg
+**Post:** [X, Nov 25](https://x.com/morbius_labs/status/2125620973101539653) and [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-24-mas-know-your-agent-sandbox/) · **Checked:** 2026-11-24 · **Status:** all claims sourced to the speech text on mas.gov.sg
 
 On Nov 19 Chia Der Jiun, Managing Director of the Monetary Authority of Singapore (MAS), gave the keynote at the Singapore FinTech Festival. Headlines since then say Singapore "wants to test stablecoin payments by AI agents" and is rolling out "Know Your Agent". The speech announces both as plans.
 
