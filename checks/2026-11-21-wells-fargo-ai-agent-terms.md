@@ -1,6 +1,6 @@
 # Wells Fargo from Nov 24: what your AI agent does is "deemed" done by you, unless the law says otherwise
 
-**Post:** site only, [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-21-wells-fargo-ai-agent-terms/) · **Checked:** 2026-11-21 · **Status:** all claims sourced to the agreement text
+**Post:** [X, Nov 25](https://x.com/morbius_labs/status/2125620973101539653) and [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-21-wells-fargo-ai-agent-terms/) · **Checked:** 2026-11-21 · **Status:** all claims sourced to the agreement text
 
 Wells Fargo has published a new Online Access Agreement that takes effect on Nov 24, 2026. It adds Section 15, "Third-Party Artificial Intelligence Agents or Agentic AI". Citi added a similar section this month ([our check](https://morbiuslabs.org/p/2026-11-19-citi-ai-agent-authorized/)).
 
