@@ -1,6 +1,6 @@
 # PNC's new terms let AI agents in only through its own connection, with no passwords and no payments unless PNC allows it. They take effect Dec 19
 
-**Post:** site only, [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-26-pnc-ai-agent-terms/) · **Checked:** 2026-11-26 · **Status:** all claims sourced to PNC's Digital Services Agreement, version effective 12/19/2026 (PDF on pnc.com)
+**Post:** [X, Nov 26](https://x.com/morbius_labs/status/2125874727713452255) and [morbiuslabs.org](https://morbiuslabs.org/p/2026-11-26-pnc-ai-agent-terms/) · **Checked:** 2026-11-26 · **Status:** all claims sourced to PNC's Digital Services Agreement, version effective 12/19/2026 (PDF on pnc.com)
 
 TechCrunch reported on Nov 18 that PNC had changed its terms for AI agents. We have now read the agreement itself. It is the upcoming version, effective Dec 19, 2026, with a new "Third-Party AI Agents" section on pages 8 to 10.
 
